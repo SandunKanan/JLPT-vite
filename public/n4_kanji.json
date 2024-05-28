@@ -1,0 +1,1338 @@
+[
+    {
+        "#": "1",
+        "Kanji": "会",
+        "Onyomi": "kai",
+        "Kunyomi": "カイ",
+        "Onyomi Kana": "a(u)",
+        "Kanji Meaning": "あ(う) meeting; meet"
+    },
+    {
+        "#": "2",
+        "Kanji": "同",
+        "Onyomi": "dou",
+        "Kunyomi": "ドウ",
+        "Onyomi Kana": "onaji",
+        "Kanji Meaning": "おな(じ) same, agree, equal"
+    },
+    {
+        "#": "3",
+        "Kanji": "事",
+        "Onyomi": "ji",
+        "Kunyomi": "ジ",
+        "Onyomi Kana": "koto",
+        "Kanji Meaning": "こと matter, thing, fact, business, reason, possibly"
+    },
+    {
+        "#": "4",
+        "Kanji": "自",
+        "Onyomi": "ji, shi",
+        "Kunyomi": "ジ、シ",
+        "Onyomi Kana": "mizuka(ra)",
+        "Kanji Meaning": "みずか(ら) oneself"
+    },
+    {
+        "#": "5",
+        "Kanji": "社",
+        "Onyomi": "sha",
+        "Kunyomi": "シャ",
+        "Onyomi Kana": "yashiro",
+        "Kanji Meaning": "やしろ company, firm, office, association, shrine"
+    },
+    {
+        "#": "6",
+        "Kanji": "発",
+        "Onyomi": "hatsu, hotsu",
+        "Kunyomi": "ハツ、ホツ",
+        "Onyomi Kana": "departure, discharge,",
+        "Kanji Meaning": "emit, start from"
+    },
+    {
+        "#": "7",
+        "Kanji": "者",
+        "Onyomi": "sha",
+        "Kunyomi": "シャ",
+        "Onyomi Kana": "mono",
+        "Kanji Meaning": "もの someone, person"
+    },
+    {
+        "#": "8",
+        "Kanji": "地",
+        "Onyomi": "chi, ji",
+        "Kunyomi": "チ、ジ",
+        "Onyomi Kana": "ground, earth",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "9",
+        "Kanji": "業",
+        "Onyomi": "gyou",
+        "Kunyomi": "ギョウ",
+        "Onyomi Kana": "waza",
+        "Kanji Meaning": "わざ business, vocation, arts, performance"
+    },
+    {
+        "#": "10",
+        "Kanji": "方",
+        "Onyomi": "hou",
+        "Kunyomi": "ホウ",
+        "Onyomi Kana": "kata",
+        "Kanji Meaning": "かた direction, person, alternative"
+    },
+    {
+        "#": "11",
+        "Kanji": "新",
+        "Onyomi": "shin",
+        "Kunyomi": "シン",
+        "Onyomi Kana": "atara(shii), ara(ta)",
+        "Kanji Meaning": "あたら(しい)、あら(た) new"
+    },
+    {
+        "#": "12",
+        "Kanji": "場",
+        "Onyomi": "jou",
+        "Kunyomi": "ジョウ",
+        "Onyomi Kana": "ba",
+        "Kanji Meaning": "ば location, place"
+    },
+    {
+        "#": "13",
+        "Kanji": "員",
+        "Onyomi": "in",
+        "Kunyomi": "イン",
+        "Onyomi Kana": "employee, member,",
+        "Kanji Meaning": "number, the one in charge"
+    },
+    {
+        "#": "14",
+        "Kanji": "立",
+        "Onyomi": "ritsu",
+        "Kunyomi": "リツ",
+        "Onyomi Kana": "ta(tsu)",
+        "Kanji Meaning": "た(つ) stand up, rise"
+    },
+    {
+        "#": "15",
+        "Kanji": "開",
+        "Onyomi": "kai",
+        "Kunyomi": "カイ",
+        "Onyomi Kana": "hira(ku), a(keru)",
+        "Kanji Meaning": "ひら(く)、あ(ける) open, unfold, unseal"
+    },
+    {
+        "#": "16",
+        "Kanji": "手",
+        "Onyomi": "shu",
+        "Kunyomi": "シュ",
+        "Onyomi Kana": "te",
+        "Kanji Meaning": "て hand"
+    },
+    {
+        "#": "17",
+        "Kanji": "力",
+        "Onyomi": "ryoku, riki",
+        "Kunyomi": "リョク、リキ",
+        "Onyomi Kana": "chikara",
+        "Kanji Meaning": "ちから power, strength, strong, strain, bear up, exert"
+    },
+    {
+        "#": "18",
+        "Kanji": "問",
+        "Onyomi": "mon",
+        "Kunyomi": "モン",
+        "Onyomi Kana": "to(u)",
+        "Kanji Meaning": "と(う) question, ask, problem"
+    },
+    {
+        "#": "19",
+        "Kanji": "代",
+        "Onyomi": "dai",
+        "Kunyomi": "ダイ",
+        "Onyomi Kana": "ka(wari)",
+        "Kanji Meaning": "か(わり) substitute, change, convert, replace, period"
+    },
+    {
+        "#": "20",
+        "Kanji": "明",
+        "Onyomi": "mei, myou",
+        "Kunyomi": "メイ、ミョウ",
+        "Onyomi Kana": "aka(rui)",
+        "Kanji Meaning": "あか(るい) bright, light"
+    },
+    {
+        "#": "21",
+        "Kanji": "動",
+        "Onyomi": "dou",
+        "Kunyomi": "ドウ",
+        "Onyomi Kana": "ugo(ku)",
+        "Kanji Meaning": "うご(く) move, motion, change"
+    },
+    {
+        "#": "22",
+        "Kanji": "京",
+        "Onyomi": "kyou, kei, kin",
+        "Kunyomi": "キョウ、ケイ、キ",
+        "Onyomi Kana": "ン",
+        "Kanji Meaning": "miyako みやこ capital"
+    },
+    {
+        "#": "23",
+        "Kanji": "目",
+        "Onyomi": "moku, boku",
+        "Kunyomi": "モク、ボク",
+        "Onyomi Kana": "me",
+        "Kanji Meaning": "め eye, class, look, insight, experience"
+    },
+    {
+        "#": "24",
+        "Kanji": "通",
+        "Onyomi": "tsuu",
+        "Kunyomi": "ツウ",
+        "Onyomi Kana": "too(ru), kayo(u)",
+        "Kanji Meaning": "とお(る)、かよ(う) traffic, pass through, avenue, commute"
+    },
+    {
+        "#": "25",
+        "Kanji": "言",
+        "Onyomi": "gen, gon",
+        "Kunyomi": "ゲン、ゴン",
+        "Onyomi Kana": "i(u), koto",
+        "Kanji Meaning": "い（う）、こと say, word"
+    },
+    {
+        "#": "26",
+        "Kanji": "理",
+        "Onyomi": "ri",
+        "Kunyomi": "リ",
+        "Onyomi Kana": "logic, arrangement,",
+        "Kanji Meaning": "reason, justice, truth"
+    },
+    {
+        "#": "27",
+        "Kanji": "体",
+        "Onyomi": "tai",
+        "Kunyomi": "タイ",
+        "Onyomi Kana": "karada",
+        "Kanji Meaning": "からだ body, substance, object, reality"
+    },
+    {
+        "#": "28",
+        "Kanji": "田",
+        "Onyomi": "den",
+        "Kunyomi": "デン",
+        "Onyomi Kana": "ta",
+        "Kanji Meaning": "た rice field, rice paddy"
+    },
+    {
+        "#": "29",
+        "Kanji": "主",
+        "Onyomi": "shu",
+        "Kunyomi": "シュ",
+        "Onyomi Kana": "nushi, omo",
+        "Kanji Meaning": "ぬし、おも lord, chief, master, main thing, principal"
+    },
+    {
+        "#": "30",
+        "Kanji": "題",
+        "Onyomi": "dai",
+        "Kunyomi": "ダイ",
+        "Onyomi Kana": "topic, subject",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "31",
+        "Kanji": "意",
+        "Onyomi": "i",
+        "Kunyomi": "イ",
+        "Onyomi Kana": "idea, mind, heart, taste,",
+        "Kanji Meaning": "thought"
+    },
+    {
+        "#": "32",
+        "Kanji": "不",
+        "Onyomi": "fu, bu",
+        "Kunyomi": "フ、ブ",
+        "Onyomi Kana": "negative, non-, bad",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "33",
+        "Kanji": "作",
+        "Onyomi": "saku, sa",
+        "Kunyomi": "サク、サ",
+        "Onyomi Kana": "tsuku(ru)",
+        "Kanji Meaning": "つく(る) make, production, prepare, build"
+    },
+    {
+        "#": "34",
+        "Kanji": "用",
+        "Onyomi": "you",
+        "Kunyomi": "ヨウ",
+        "Onyomi Kana": "mochi(iru)",
+        "Kanji Meaning": "もち(いる) utilize, business, service, use, employ"
+    },
+    {
+        "#": "35",
+        "Kanji": "度",
+        "Onyomi": "do, taku",
+        "Kunyomi": "ド、タク",
+        "Onyomi Kana": "tabi, ta(i)",
+        "Kanji Meaning": "たび、た(い) degrees, occurrence, time, counter for occurrences"
+    },
+    {
+        "#": "36",
+        "Kanji": "強",
+        "Onyomi": "kyou, gou",
+        "Kunyomi": "キョウ、ゴウ",
+        "Onyomi Kana": "tsuyo(i)",
+        "Kanji Meaning": "つよ(い) strong"
+    },
+    {
+        "#": "37",
+        "Kanji": "公",
+        "Onyomi": "kou",
+        "Kunyomi": "コウ",
+        "Onyomi Kana": "public, prince, official,",
+        "Kanji Meaning": "governmental"
+    },
+    {
+        "#": "38",
+        "Kanji": "持",
+        "Onyomi": "ji",
+        "Kunyomi": "ジ",
+        "Onyomi Kana": "mo(tsu)",
+        "Kanji Meaning": "も(つ) hold, have"
+    },
+    {
+        "#": "39",
+        "Kanji": "野",
+        "Onyomi": "ya",
+        "Kunyomi": "ヤ",
+        "Onyomi Kana": "no",
+        "Kanji Meaning": "の plains, field, rustic, civilian life"
+    },
+    {
+        "#": "40",
+        "Kanji": "以",
+        "Onyomi": "i",
+        "Kunyomi": "イ",
+        "Onyomi Kana": "mo(tte)",
+        "Kanji Meaning": "もっ(て) by means of, because, in view of, compared with"
+    },
+    {
+        "#": "41",
+        "Kanji": "思",
+        "Onyomi": "shi",
+        "Kunyomi": "シ",
+        "Onyomi Kana": "omo(u)",
+        "Kanji Meaning": "おも(う) think"
+    },
+    {
+        "#": "42",
+        "Kanji": "家",
+        "Onyomi": "ka",
+        "Kunyomi": "カ",
+        "Onyomi Kana": "ie, ya, uchi",
+        "Kanji Meaning": "いえ、や、うち house, home, family, professional, expert"
+    },
+    {
+        "#": "43",
+        "Kanji": "世",
+        "Onyomi": "sei, se",
+        "Kunyomi": "セイ、セ",
+        "Onyomi Kana": "yo",
+        "Kanji Meaning": "よ generation, world, society, public"
+    },
+    {
+        "#": "44",
+        "Kanji": "多",
+        "Onyomi": "ta",
+        "Kunyomi": "タ",
+        "Onyomi Kana": "oo(i)",
+        "Kanji Meaning": "おお(い) many, frequent, much"
+    },
+    {
+        "#": "45",
+        "Kanji": "正",
+        "Onyomi": "sei, shou",
+        "Kunyomi": "セイ、ショウ",
+        "Onyomi Kana": "tada(shii), masa(ni)",
+        "Kanji Meaning": "ただ(しい)、まさ(に) correct, justice, righteous"
+    },
+    {
+        "#": "46",
+        "Kanji": "安",
+        "Onyomi": "an",
+        "Kunyomi": "アン",
+        "Onyomi Kana": "yasu(i)",
+        "Kanji Meaning": "やす(い) safe, peaceful, cheap"
+    },
+    {
+        "#": "47",
+        "Kanji": "院",
+        "Onyomi": "in",
+        "Kunyomi": "イン",
+        "Onyomi Kana": "institution, temple,",
+        "Kanji Meaning": "mansion, school"
+    },
+    {
+        "#": "48",
+        "Kanji": "心",
+        "Onyomi": "shin",
+        "Kunyomi": "シン",
+        "Onyomi Kana": "kokoro",
+        "Kanji Meaning": "こころ heart, mind, spirit"
+    },
+    {
+        "#": "49",
+        "Kanji": "界",
+        "Onyomi": "kai",
+        "Kunyomi": "カイ",
+        "Onyomi Kana": "world, boundary",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "50",
+        "Kanji": "教",
+        "Onyomi": "kyou",
+        "Kunyomi": "キョウ",
+        "Onyomi Kana": "oshi(eru), oso(waru)",
+        "Kanji Meaning": "おし(える)、おそ(わる) teach, faith, doctrine"
+    },
+    {
+        "#": "51",
+        "Kanji": "文",
+        "Onyomi": "bun, mon",
+        "Kunyomi": "ブン、モン",
+        "Onyomi Kana": "fumi",
+        "Kanji Meaning": "ふみ sentence, literature, style, art"
+    },
+    {
+        "#": "52",
+        "Kanji": "元",
+        "Onyomi": "gen, gan",
+        "Kunyomi": "ゲン、ガン",
+        "Onyomi Kana": "moto",
+        "Kanji Meaning": "もと beginning, former time, origin"
+    },
+    {
+        "#": "53",
+        "Kanji": "重",
+        "Onyomi": "juu, chou",
+        "Kunyomi": "ジュウ、チョウ",
+        "Onyomi Kana": "omo(i), kasa(neru)",
+        "Kanji Meaning": "おも(い)、かさ(ねる) heavy, important, esteem, respect"
+    },
+    {
+        "#": "54",
+        "Kanji": "近",
+        "Onyomi": "kin",
+        "Kunyomi": "キン",
+        "Onyomi Kana": "chika(i)",
+        "Kanji Meaning": "ちか(い) near, early, akin, tantamount"
+    },
+    {
+        "#": "55",
+        "Kanji": "考",
+        "Onyomi": "kou",
+        "Kunyomi": "コウ",
+        "Onyomi Kana": "kanga(eru)",
+        "Kanji Meaning": "かんが(える) consider, think over"
+    },
+    {
+        "#": "56",
+        "Kanji": "画",
+        "Onyomi": "ga, kaku",
+        "Kunyomi": "ガ、カク",
+        "Onyomi Kana": "kaku(suru)",
+        "Kanji Meaning": "かく(する) brush-stroke, picture"
+    },
+    {
+        "#": "57",
+        "Kanji": "海",
+        "Onyomi": "kai",
+        "Kunyomi": "カイ",
+        "Onyomi Kana": "umi",
+        "Kanji Meaning": "うみ sea, ocean"
+    },
+    {
+        "#": "58",
+        "Kanji": "売",
+        "Onyomi": "bai",
+        "Kunyomi": "バイ",
+        "Onyomi Kana": "u(ru)",
+        "Kanji Meaning": "う(る) Sell"
+    },
+    {
+        "#": "59",
+        "Kanji": "知",
+        "Onyomi": "chi",
+        "Kunyomi": "チ",
+        "Onyomi Kana": "shi(ru)",
+        "Kanji Meaning": "し(る) know, wisdom"
+    },
+    {
+        "#": "60",
+        "Kanji": "道",
+        "Onyomi": "dou",
+        "Kunyomi": "ドウ",
+        "Onyomi Kana": "michi",
+        "Kanji Meaning": "みち road-way, street, district, journey, course"
+    },
+    {
+        "#": "61",
+        "Kanji": "集",
+        "Onyomi": "shuu",
+        "Kunyomi": "シュウ",
+        "Onyomi Kana": "atsu(meru)",
+        "Kanji Meaning": "あつ(める) gather, meet"
+    },
+    {
+        "#": "62",
+        "Kanji": "別",
+        "Onyomi": "betsu",
+        "Kunyomi": "ベツ",
+        "Onyomi Kana": "waka(reru), wa(keru)",
+        "Kanji Meaning": "わか(れる)、わ(ける) separate, branch off, diverge"
+    },
+    {
+        "#": "63",
+        "Kanji": "物",
+        "Onyomi": "butsu, motsu",
+        "Kunyomi": "ブツ、モツ",
+        "Onyomi Kana": "mono",
+        "Kanji Meaning": "もの thing, object, matter"
+    },
+    {
+        "#": "64",
+        "Kanji": "使",
+        "Onyomi": "shi",
+        "Kunyomi": "シ",
+        "Onyomi Kana": "tsuka(u)",
+        "Kanji Meaning": "つか(う) use, order, messenger, ambassador"
+    },
+    {
+        "#": "65",
+        "Kanji": "品",
+        "Onyomi": "hin",
+        "Kunyomi": "ヒン",
+        "Onyomi Kana": "shina",
+        "Kanji Meaning": "しな goods, refinement, dignity, article"
+    },
+    {
+        "#": "66",
+        "Kanji": "計",
+        "Onyomi": "kei",
+        "Kunyomi": "ケイ",
+        "Onyomi Kana": "haka(ru)",
+        "Kanji Meaning": "はか(る) plot, plan, scheme, measure"
+    },
+    {
+        "#": "67",
+        "Kanji": "死",
+        "Onyomi": "shi",
+        "Kunyomi": "シ",
+        "Onyomi Kana": "shi(nu)",
+        "Kanji Meaning": "し(ぬ) death, die"
+    },
+    {
+        "#": "68",
+        "Kanji": "特",
+        "Onyomi": "toku",
+        "Kunyomi": "トク",
+        "Onyomi Kana": "special",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "69",
+        "Kanji": "私",
+        "Onyomi": "shi",
+        "Kunyomi": "シ",
+        "Onyomi Kana": "watakushi, watashi",
+        "Kanji Meaning": "わたくし、わたし private, I, me"
+    },
+    {
+        "#": "70",
+        "Kanji": "始",
+        "Onyomi": "shi",
+        "Kunyomi": "シ",
+        "Onyomi Kana": "haji(meru)",
+        "Kanji Meaning": "はじ(める) commence, begin"
+    },
+    {
+        "#": "71",
+        "Kanji": "朝",
+        "Onyomi": "chou",
+        "Kunyomi": "チョウ",
+        "Onyomi Kana": "asa",
+        "Kanji Meaning": "あさ morning"
+    },
+    {
+        "#": "72",
+        "Kanji": "運",
+        "Onyomi": "un",
+        "Kunyomi": "ウン",
+        "Onyomi Kana": "hako(bu)",
+        "Kanji Meaning": "はこ(ぶ) carry, luck, destiny, fate, transport"
+    },
+    {
+        "#": "73",
+        "Kanji": "終",
+        "Onyomi": "shuu",
+        "Kunyomi": "シュウ",
+        "Onyomi Kana": "o(waru)",
+        "Kanji Meaning": "お(わる) end, finish"
+    },
+    {
+        "#": "74",
+        "Kanji": "台",
+        "Onyomi": "dai, tai",
+        "Kunyomi": "ダイ、タイ",
+        "Onyomi Kana": "utena",
+        "Kanji Meaning": "うてな pedestal, a stand, counter for machines and vehicles"
+    },
+    {
+        "#": "75",
+        "Kanji": "広",
+        "Onyomi": "kou",
+        "Kunyomi": "コウ",
+        "Onyomi Kana": "hiro(i)",
+        "Kanji Meaning": "ひろ(い) wide, broad, spacious"
+    },
+    {
+        "#": "76",
+        "Kanji": "住",
+        "Onyomi": "juu, chuu",
+        "Kunyomi": "ジュウ、チュウ",
+        "Onyomi Kana": "su(mu)",
+        "Kanji Meaning": "す(む) dwell, reside, live, inhabit"
+    },
+    {
+        "#": "77",
+        "Kanji": "無",
+        "Onyomi": "mu, bu",
+        "Kunyomi": "ム、ブ",
+        "Onyomi Kana": "na(i)",
+        "Kanji Meaning": "な(い) nothingness, none, ain't, nothing, nil, not"
+    },
+    {
+        "#": "78",
+        "Kanji": "真",
+        "Onyomi": "shin",
+        "Kunyomi": "シン",
+        "Onyomi Kana": "ma, makoto",
+        "Kanji Meaning": "ま、まこと true, reality, Buddhist sect"
+    },
+    {
+        "#": "79",
+        "Kanji": "有",
+        "Onyomi": "yuu, u",
+        "Kunyomi": "ユウ、ウ",
+        "Onyomi Kana": "a(ru)",
+        "Kanji Meaning": "あ(る) possess, have, exist, happen"
+    },
+    {
+        "#": "80",
+        "Kanji": "口",
+        "Onyomi": "kou",
+        "Kunyomi": "コウ",
+        "Onyomi Kana": "kuchi",
+        "Kanji Meaning": "くち mouth"
+    },
+    {
+        "#": "81",
+        "Kanji": "少",
+        "Onyomi": "shou",
+        "Kunyomi": "ショウ",
+        "Onyomi Kana": "suku(nai), suko(shi)",
+        "Kanji Meaning": "すく(ない)、すこ(し) few, little"
+    },
+    {
+        "#": "82",
+        "Kanji": "町",
+        "Onyomi": "chou",
+        "Kunyomi": "チョウ",
+        "Onyomi Kana": "machi",
+        "Kanji Meaning": "まち town, village, block, street"
+    },
+    {
+        "#": "83",
+        "Kanji": "料",
+        "Onyomi": "ryou",
+        "Kunyomi": "リョウ",
+        "Onyomi Kana": "fee, materials",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "84",
+        "Kanji": "工",
+        "Onyomi": "kou, ku, gu",
+        "Kunyomi": "コウ、ク、グ",
+        "Onyomi Kana": "craft, construction",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "85",
+        "Kanji": "建",
+        "Onyomi": "ken, kon",
+        "Kunyomi": "ケン、コン",
+        "Onyomi Kana": "ta(teru)",
+        "Kanji Meaning": "た(てる) build"
+    },
+    {
+        "#": "86",
+        "Kanji": "空",
+        "Onyomi": "kuu",
+        "Kunyomi": "クウ",
+        "Onyomi Kana": "sora, kara, a(ku), su(ku),",
+        "Kanji Meaning": "muna(shii) そら、から、あ(く)、す(く)、 むな(しい) empty, sky, void, vacant, vacuum"
+    },
+    {
+        "#": "87",
+        "Kanji": "急",
+        "Onyomi": "kyuu",
+        "Kunyomi": "キュウ",
+        "Onyomi Kana": "iso(gu)",
+        "Kanji Meaning": "いそ(ぐ) hurry, emergency, sudden, steep"
+    },
+    {
+        "#": "88",
+        "Kanji": "止",
+        "Onyomi": "shi",
+        "Kunyomi": "シ",
+        "Onyomi Kana": "to(maru), todo(maru),",
+        "Kanji Meaning": "ya(meru), yo(su) と(まる)、とど(まる)、や(め る)、よ(す) stop, halt"
+    },
+    {
+        "#": "89",
+        "Kanji": "送",
+        "Onyomi": "sou",
+        "Kunyomi": "ソウ",
+        "Onyomi Kana": "oku(ru)",
+        "Kanji Meaning": "おく(る) escort, send"
+    },
+    {
+        "#": "90",
+        "Kanji": "切",
+        "Onyomi": "setsu, sai",
+        "Kunyomi": "セツ、サイ",
+        "Onyomi Kana": "ki(ru)",
+        "Kanji Meaning": "き(る) cut, cutoff, be sharp"
+    },
+    {
+        "#": "91",
+        "Kanji": "転",
+        "Onyomi": "ten",
+        "Kunyomi": "テン",
+        "Onyomi Kana": "koro(garu)",
+        "Kanji Meaning": "ころ(がる) revolve, turn around, change"
+    },
+    {
+        "#": "92",
+        "Kanji": "研",
+        "Onyomi": "ken",
+        "Kunyomi": "ケン",
+        "Onyomi Kana": "to(gu)",
+        "Kanji Meaning": "と(ぐ) polish, study of, sharpen"
+    },
+    {
+        "#": "93",
+        "Kanji": "足",
+        "Onyomi": "soku",
+        "Kunyomi": "ソク",
+        "Onyomi Kana": "ashi, ta(riru)",
+        "Kanji Meaning": "あし、た(りる) leg, foot, be sufficient"
+    },
+    {
+        "#": "94",
+        "Kanji": "究",
+        "Onyomi": "kyuu",
+        "Kunyomi": "キュウ",
+        "Onyomi Kana": "research, study",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "95",
+        "Kanji": "楽",
+        "Onyomi": "gaku, raku",
+        "Kunyomi": "ガク、ラク",
+        "Onyomi Kana": "tano(shii)",
+        "Kanji Meaning": "たの(しい) music, comfort, ease"
+    },
+    {
+        "#": "96",
+        "Kanji": "起",
+        "Onyomi": "ki",
+        "Kunyomi": "キ",
+        "Onyomi Kana": "o(kiru), oko(su)",
+        "Kanji Meaning": "お(きる)、おこ(す) wake up, get up; rouse"
+    },
+    {
+        "#": "97",
+        "Kanji": "着",
+        "Onyomi": "chaku",
+        "Kunyomi": "チャク",
+        "Onyomi Kana": "ki(ru), tsu(ku)",
+        "Kanji Meaning": "き(る)、つ(く) arrive, wear, counter for suits of clothing"
+    },
+    {
+        "#": "98",
+        "Kanji": "店",
+        "Onyomi": "ten",
+        "Kunyomi": "テン",
+        "Onyomi Kana": "mise",
+        "Kanji Meaning": "みせ store, shop"
+    },
+    {
+        "#": "99",
+        "Kanji": "病",
+        "Onyomi": "byou",
+        "Kunyomi": "ビョウ",
+        "Onyomi Kana": "ya(mu)",
+        "Kanji Meaning": "や(む) ill, sick"
+    },
+    {
+        "#": "100",
+        "Kanji": "質",
+        "Onyomi": "shitsu, shichi",
+        "Kunyomi": "シツ、シチ",
+        "Onyomi Kana": "tachi, tada(su)",
+        "Kanji Meaning": "たち、ただ(す) substance, quality, matter, temperament"
+    },
+    {
+        "#": "101",
+        "Kanji": "待",
+        "Onyomi": "tai",
+        "Kunyomi": "タイ",
+        "Onyomi Kana": "ma(tsu)",
+        "Kanji Meaning": "ま(つ) wait, depend on"
+    },
+    {
+        "#": "102",
+        "Kanji": "試",
+        "Onyomi": "shi",
+        "Kunyomi": "シ",
+        "Onyomi Kana": "kokoro(miru), tame(su)",
+        "Kanji Meaning": "こころ(みる)、ため(す) test, try, attempt, experiment"
+    },
+    {
+        "#": "103",
+        "Kanji": "族",
+        "Onyomi": "zoku",
+        "Kunyomi": "ゾク",
+        "Onyomi Kana": "tribe, family",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "104",
+        "Kanji": "銀",
+        "Onyomi": "gin",
+        "Kunyomi": "ギン",
+        "Onyomi Kana": "silver",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "105",
+        "Kanji": "早",
+        "Onyomi": "sou, sa",
+        "Kunyomi": "ソウ、サッ",
+        "Onyomi Kana": "haya(i)",
+        "Kanji Meaning": "はや(い) early, fast"
+    },
+    {
+        "#": "106",
+        "Kanji": "映",
+        "Onyomi": "ei",
+        "Kunyomi": "エイ",
+        "Onyomi Kana": "utsu(ru), ha(eru)",
+        "Kanji Meaning": "うつ(る)、は(える) reflect, reflection, projection"
+    },
+    {
+        "#": "107",
+        "Kanji": "親",
+        "Onyomi": "shin",
+        "Kunyomi": "シン",
+        "Onyomi Kana": "oya, shita(shii)",
+        "Kanji Meaning": "おや、した(しい) parent, intimacy, relative, familiarity"
+    },
+    {
+        "#": "108",
+        "Kanji": "験",
+        "Onyomi": "ken",
+        "Kunyomi": "ケン",
+        "Onyomi Kana": "verification, effect, testing",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "109",
+        "Kanji": "英",
+        "Onyomi": "ei",
+        "Kunyomi": "エイ",
+        "Onyomi Kana": "England, English, hero,",
+        "Kanji Meaning": "outstanding"
+    },
+    {
+        "#": "110",
+        "Kanji": "医",
+        "Onyomi": "i",
+        "Kunyomi": "イ",
+        "Onyomi Kana": "doctor, medicine",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "111",
+        "Kanji": "仕",
+        "Onyomi": "shi",
+        "Kunyomi": "シ",
+        "Onyomi Kana": "attend, doing, official,",
+        "Kanji Meaning": "serve"
+    },
+    {
+        "#": "112",
+        "Kanji": "去",
+        "Onyomi": "kyo, ko",
+        "Kunyomi": "キョ、コ",
+        "Onyomi Kana": "sa(ru)",
+        "Kanji Meaning": "さ(る) gone, past, quit, leave, elapse, eliminate"
+    },
+    {
+        "#": "113",
+        "Kanji": "味",
+        "Onyomi": "mi",
+        "Kunyomi": "ミ",
+        "Onyomi Kana": "aji",
+        "Kanji Meaning": "あじ flavor, taste"
+    },
+    {
+        "#": "114",
+        "Kanji": "写",
+        "Onyomi": "sha",
+        "Kunyomi": "シャ",
+        "Onyomi Kana": "utsuru",
+        "Kanji Meaning": "うつ(る) copy, be photographed, describe"
+    },
+    {
+        "#": "115",
+        "Kanji": "字",
+        "Onyomi": "ji",
+        "Kunyomi": "ジ",
+        "Onyomi Kana": "character, letter, word",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "116",
+        "Kanji": "答",
+        "Onyomi": "tou",
+        "Kunyomi": "トウ",
+        "Onyomi Kana": "kota(eru)",
+        "Kanji Meaning": "こた(える) solution, answer"
+    },
+    {
+        "#": "117",
+        "Kanji": "夜",
+        "Onyomi": "ya",
+        "Kunyomi": "ヤ",
+        "Onyomi Kana": "yo, yoru",
+        "Kanji Meaning": "よ、よる night, evening"
+    },
+    {
+        "#": "118",
+        "Kanji": "音",
+        "Onyomi": "on",
+        "Kunyomi": "オン",
+        "Onyomi Kana": "oto, ne",
+        "Kanji Meaning": "おと、ね sound, noise"
+    },
+    {
+        "#": "119",
+        "Kanji": "注",
+        "Onyomi": "chuu",
+        "Kunyomi": "チュウ",
+        "Onyomi Kana": "soso(gu), sa(su), tsu(gu)",
+        "Kanji Meaning": "そそ(ぐ)、さ(す)、つ(ぐ) pour, irrigate, shed (tears), flow into, concentrate on"
+    },
+    {
+        "#": "120",
+        "Kanji": "帰",
+        "Onyomi": "ki",
+        "Kunyomi": "キ",
+        "Onyomi Kana": "kae(ru), kae(su)",
+        "Kanji Meaning": "かえ(る)、かえ(す) homecoming, arrive at, lead to, result in"
+    },
+    {
+        "#": "121",
+        "Kanji": "古",
+        "Onyomi": "ko",
+        "Kunyomi": "コ",
+        "Onyomi Kana": "furu(i)",
+        "Kanji Meaning": "ふる(い) old"
+    },
+    {
+        "#": "122",
+        "Kanji": "歌",
+        "Onyomi": "ka",
+        "Kunyomi": "カ",
+        "Onyomi Kana": "uta, uta(u)",
+        "Kanji Meaning": "うた、うた(う) song, sing"
+    },
+    {
+        "#": "123",
+        "Kanji": "買",
+        "Onyomi": "bai",
+        "Kunyomi": "バイ",
+        "Onyomi Kana": "ka(u)",
+        "Kanji Meaning": "か(う) buy"
+    },
+    {
+        "#": "124",
+        "Kanji": "悪",
+        "Onyomi": "aku",
+        "Kunyomi": "アク",
+        "Onyomi Kana": "waru(i)",
+        "Kanji Meaning": "わる(い) bad, evil, wrong"
+    },
+    {
+        "#": "125",
+        "Kanji": "図",
+        "Onyomi": "zu, to",
+        "Kunyomi": "ズ、ト",
+        "Onyomi Kana": "haka(ru)",
+        "Kanji Meaning": "はか(る) map, drawing, plan, extraordinary"
+    },
+    {
+        "#": "126",
+        "Kanji": "週",
+        "Onyomi": "shuu",
+        "Kunyomi": "シュウ",
+        "Onyomi Kana": "week",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "127",
+        "Kanji": "室",
+        "Onyomi": "shitsu",
+        "Kunyomi": "シツ",
+        "Onyomi Kana": "muro",
+        "Kanji Meaning": "むろ room, apartment, chamber, cellar"
+    },
+    {
+        "#": "128",
+        "Kanji": "歩",
+        "Onyomi": "ho, bu",
+        "Kunyomi": "ホ、ブ",
+        "Onyomi Kana": "aru(ku), ayu(mu)",
+        "Kanji Meaning": "ある(く)、あゆ(む) walk, counter for steps"
+    },
+    {
+        "#": "129",
+        "Kanji": "風",
+        "Onyomi": "fuu, fu",
+        "Kunyomi": "フウ、フ",
+        "Onyomi Kana": "kaze, kaza-",
+        "Kanji Meaning": "かぜ、かざ- wind, air, style, manner"
+    },
+    {
+        "#": "130",
+        "Kanji": "紙",
+        "Onyomi": "shi",
+        "Kunyomi": "シ",
+        "Onyomi Kana": "kami",
+        "Kanji Meaning": "かみ paper"
+    },
+    {
+        "#": "131",
+        "Kanji": "黒",
+        "Onyomi": "koku",
+        "Kunyomi": "コク",
+        "Onyomi Kana": "kuro",
+        "Kanji Meaning": "くろ black"
+    },
+    {
+        "#": "132",
+        "Kanji": "花",
+        "Onyomi": "ka, ke",
+        "Kunyomi": "カ、ケ",
+        "Onyomi Kana": "hana",
+        "Kanji Meaning": "はな flower"
+    },
+    {
+        "#": "133",
+        "Kanji": "春",
+        "Onyomi": "shun",
+        "Kunyomi": "シュン",
+        "Onyomi Kana": "haru",
+        "Kanji Meaning": "はる spring"
+    },
+    {
+        "#": "134",
+        "Kanji": "赤",
+        "Onyomi": "seki, shaku",
+        "Kunyomi": "セキ、シャク",
+        "Onyomi Kana": "aka(i)",
+        "Kanji Meaning": "あか(い) red"
+    },
+    {
+        "#": "135",
+        "Kanji": "青",
+        "Onyomi": "sei, shou",
+        "Kunyomi": "セイ、ショウ",
+        "Onyomi Kana": "ao(i)",
+        "Kanji Meaning": "あお(い) blue"
+    },
+    {
+        "#": "136",
+        "Kanji": "館",
+        "Onyomi": "kan",
+        "Kunyomi": "カン",
+        "Onyomi Kana": "yakata",
+        "Kanji Meaning": "やかた building, mansion, large building, palace"
+    },
+    {
+        "#": "137",
+        "Kanji": "屋",
+        "Onyomi": "oku",
+        "Kunyomi": "オク",
+        "Onyomi Kana": "ya",
+        "Kanji Meaning": "や roof, house, shop, dealer, seller"
+    },
+    {
+        "#": "138",
+        "Kanji": "色",
+        "Onyomi": "shoku, shiki",
+        "Kunyomi": "ショク、シキ",
+        "Onyomi Kana": "iro",
+        "Kanji Meaning": "いろ color"
+    },
+    {
+        "#": "139",
+        "Kanji": "走",
+        "Onyomi": "Sou",
+        "Kunyomi": "ソウ",
+        "Onyomi Kana": "hashi(ru)",
+        "Kanji Meaning": "はし(る) Run"
+    },
+    {
+        "#": "140",
+        "Kanji": "秋",
+        "Onyomi": "shuu",
+        "Kunyomi": "シュウ",
+        "Onyomi Kana": "aki",
+        "Kanji Meaning": "あき autumn, fall"
+    },
+    {
+        "#": "141",
+        "Kanji": "夏",
+        "Onyomi": "ka, ge",
+        "Kunyomi": "カ、ゲ",
+        "Onyomi Kana": "natsu",
+        "Kanji Meaning": "なつ summer"
+    },
+    {
+        "#": "142",
+        "Kanji": "習",
+        "Onyomi": "shuu",
+        "Kunyomi": "シュウ",
+        "Onyomi Kana": "nara(u)",
+        "Kanji Meaning": "なら(う) learn"
+    },
+    {
+        "#": "143",
+        "Kanji": "駅",
+        "Onyomi": "eki",
+        "Kunyomi": "エキ",
+        "Onyomi Kana": "station",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "144",
+        "Kanji": "洋",
+        "Onyomi": "you",
+        "Kunyomi": "ヨウ",
+        "Onyomi Kana": "ocean, sea, foreign,",
+        "Kanji Meaning": "Western style"
+    },
+    {
+        "#": "145",
+        "Kanji": "旅",
+        "Onyomi": "ryo",
+        "Kunyomi": "リョ",
+        "Onyomi Kana": "tabi",
+        "Kanji Meaning": "たび trip, travel"
+    },
+    {
+        "#": "146",
+        "Kanji": "服",
+        "Onyomi": "fuku",
+        "Kunyomi": "フク",
+        "Onyomi Kana": "clothing, admit, obey",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "147",
+        "Kanji": "夕",
+        "Onyomi": "seki",
+        "Kunyomi": "セキ",
+        "Onyomi Kana": "yuu",
+        "Kanji Meaning": "ゆう evening"
+    },
+    {
+        "#": "148",
+        "Kanji": "借",
+        "Onyomi": "shaku",
+        "Kunyomi": "シャク",
+        "Onyomi Kana": "ka(riru)",
+        "Kanji Meaning": "か(りる) borrow, rent"
+    },
+    {
+        "#": "149",
+        "Kanji": "曜",
+        "Onyomi": "you",
+        "Kunyomi": "ヨウ",
+        "Onyomi Kana": "weekday",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "150",
+        "Kanji": "飲",
+        "Onyomi": "in",
+        "Kunyomi": "イン",
+        "Onyomi Kana": "no(mu)",
+        "Kanji Meaning": "の(む) drink"
+    },
+    {
+        "#": "151",
+        "Kanji": "肉",
+        "Onyomi": "niku",
+        "Kunyomi": "ニク",
+        "Onyomi Kana": "meat",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "152",
+        "Kanji": "貸",
+        "Onyomi": "tai",
+        "Kunyomi": "タイ",
+        "Onyomi Kana": "ka(su), kashi",
+        "Kanji Meaning": "か(す)、かし lend"
+    },
+    {
+        "#": "153",
+        "Kanji": "堂",
+        "Onyomi": "dou",
+        "Kunyomi": "ドウ",
+        "Onyomi Kana": "public chamber, hall",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "154",
+        "Kanji": "鳥",
+        "Onyomi": "chou",
+        "Kunyomi": "チョウ",
+        "Onyomi Kana": "tori",
+        "Kanji Meaning": "とり bird, chicken"
+    },
+    {
+        "#": "155",
+        "Kanji": "飯",
+        "Onyomi": "han",
+        "Kunyomi": "ハン",
+        "Onyomi Kana": "meshi",
+        "Kanji Meaning": "めし meal, rice"
+    },
+    {
+        "#": "156",
+        "Kanji": "勉",
+        "Onyomi": "ben",
+        "Kunyomi": "ベン",
+        "Onyomi Kana": "tsuto(meru)",
+        "Kanji Meaning": "つと(める) exertion, endeavor, effort"
+    },
+    {
+        "#": "157",
+        "Kanji": "冬",
+        "Onyomi": "tou",
+        "Kunyomi": "トウ",
+        "Onyomi Kana": "fuyu",
+        "Kanji Meaning": "ふゆ winter"
+    },
+    {
+        "#": "158",
+        "Kanji": "昼",
+        "Onyomi": "chuu",
+        "Kunyomi": "チュウ",
+        "Onyomi Kana": "hiru",
+        "Kanji Meaning": "ひる daytime, noon"
+    },
+    {
+        "#": "159",
+        "Kanji": "茶",
+        "Onyomi": "cha, sa",
+        "Kunyomi": "チャ、サ",
+        "Onyomi Kana": "tea",
+        "Kanji Meaning": ""
+    },
+    {
+        "#": "160",
+        "Kanji": "弟",
+        "Onyomi": "tei, dai, de",
+        "Kunyomi": "テイ、ダイ、デ",
+        "Onyomi Kana": "otouto",
+        "Kanji Meaning": "おとうと younger brother"
+    },
+    {
+        "#": "161",
+        "Kanji": "牛",
+        "Onyomi": "gyuu",
+        "Kunyomi": "ギュウ",
+        "Onyomi Kana": "ushi",
+        "Kanji Meaning": "うし cow"
+    },
+    {
+        "#": "162",
+        "Kanji": "魚",
+        "Onyomi": "gyo",
+        "Kunyomi": "ギョ",
+        "Onyomi Kana": "uo, sakana",
+        "Kanji Meaning": "うお、さかな fish"
+    },
+    {
+        "#": "163",
+        "Kanji": "兄",
+        "Onyomi": "kyou, kei",
+        "Kunyomi": "キョウ、ケイ",
+        "Onyomi Kana": "ani",
+        "Kanji Meaning": "あに elder brother"
+    },
+    {
+        "#": "164",
+        "Kanji": "犬",
+        "Onyomi": "ken",
+        "Kunyomi": "ケン",
+        "Onyomi Kana": "inu",
+        "Kanji Meaning": "いぬ dog"
+    },
+    {
+        "#": "165",
+        "Kanji": "妹",
+        "Onyomi": "mai",
+        "Kunyomi": "マイ",
+        "Onyomi Kana": "imouto",
+        "Kanji Meaning": "いもうと younger sister"
+    },
+    {
+        "#": "166",
+        "Kanji": "姉",
+        "Onyomi": "shi",
+        "Kunyomi": "シ",
+        "Onyomi Kana": "ane",
+        "Kanji Meaning": "あね elder sister"
+    },
+    {
+        "#": "167",
+        "Kanji": "漢",
+        "Onyomi": "kan",
+        "Kunyomi": "カン",
+        "Onyomi Kana": "China",
+        "Kanji Meaning": ""
+    }
+]
