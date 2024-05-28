@@ -1,0 +1,26 @@
+.word-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.word-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 200px;
+}
+
+.kanji {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.kana {
+  font-size: 18px;
+  color: #666;
+}
+
+.meaning {
+  font-size: 16px;
+  color: #333;
+}

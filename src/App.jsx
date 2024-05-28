@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import KanjiCard from './components/KanjiCard/KanjiCard';
 import './App.css';
 import Flashcards from './components/Flashcards/Flashcards';
+import WordList from './components/WordList/WordList';
 
 const App = () => {
   const [kanjiData, setKanjiData] = useState([]);
@@ -29,6 +30,7 @@ const App = () => {
           ))}
         </div>
         <Flashcards kanjiData={kanjiData} />
+        <WordList />
       </main>
     </div>
   );
