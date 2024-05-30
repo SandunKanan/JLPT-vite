@@ -1,26 +1,37 @@
 .word-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-}
+  text-align: center;
+  padding: 20px;
 
-.word-item {
-  border: 1px solid #ccc;
-  padding: 10px;
-  width: 200px;
-}
+  &__title {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
 
-.kanji {
-  font-size: 24px;
-  font-weight: bold;
-}
+  &__dates {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
 
-.kana {
-  font-size: 18px;
-  color: #666;
-}
+  &__item {
+    margin: 10px;
+  }
 
-.meaning {
-  font-size: 16px;
-  color: #333;
+  &__link {
+    display: block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #45a049;
+    }
+  }
 }

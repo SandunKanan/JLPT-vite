@@ -1,38 +1,32 @@
-import React, { useState, useEffect } from 'react';
-import KanjiCard from './components/KanjiCard/KanjiCard';
-import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Navbar from './components/Navbar/Navbar';
+import Home from './pages/Home/Home';
+import KanjiList from './components/KanjiList/KanjiList';
 import Flashcards from './components/Flashcards/Flashcards';
 import WordList from './components/WordList/WordList';
+import DateSpecificWordList from './components/DateSpecificWordList/DateSpecificWordList';
+import DateSpecificFlashcards from './components/DateSpecificFlashcards/DateSpecificFlashcards';
+
+import './App.scss';
 
 const App = () => {
-  const [kanjiData, setKanjiData] = useState([]);
-
-  useEffect(() => {
-    fetch('n4_kanji.json')
-      .then(response => {
-        return response.json()
-      })
-      .then(data => {
-        setKanjiData(data)
-      })
-      .catch(error => console.error('Error fetching Kanji data:', error));
-  }, []);
-
   return (
-    <div className="app">
-      <header>
-        <h1>JLPT N4 Kanji List</h1>
-      </header>
-      <main>
-        <div className="kanji-list">
-          {kanjiData.map(kanji => (
-            <KanjiCard key={kanji['#']} kanji={kanji} />
-          ))}
-        </div>
-        <Flashcards kanjiData={kanjiData} />
-        <WordList />
-      </main>
-    </div>
+    <Router>
+      <div className="app">
+        <Navbar />
+        <main>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/kanji-list" element={<KanjiList />} />
+            <Route path="/flashcards" element={<Flashcards />} />
+            <Route path="/wordlist" element={<WordList />} />
+            <Route path="/wordlist/:date" element={<DateSpecificWordList />} />
+            <Route path="/wordlist/:date/flashcards" element={<DateSpecificFlashcards />} />
+          </Routes>
+        </main>
+      </div>
+    </Router>
   );
 };
 

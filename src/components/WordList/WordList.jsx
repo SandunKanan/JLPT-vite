@@ -1,23 +1,25 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
+import { Link } from 'react-router-dom';
 import './WordList.scss';
-import wordData from '../../assets/data/words_list.json';
 
 const WordList = () => {
-  const [wordList, setWordList] = useState([]);
-
-  useEffect(() => {
-    setWordList(wordData);
-  }, []);
+  // Manually entered list of dates
+  const dates = [
+    '20240527',
+    '20240529',
+    // Add more dates as needed
+  ];
 
   return (
     <div className="word-list">
-      {wordList.map((item, index) => (
-        <div key={index} className="word-item">
-          <div className="kanji">{item.kanji}</div>
-          <div className="kana">{item.kana}</div>
-          <div className="meaning">{item.meaning}</div>
-        </div>
-      ))}
+      <h2 className="word-list__title">Word List Dates</h2>
+      <ul className="word-list__dates">
+        {dates.map(date => (
+          <li key={date} className="word-list__item">
+            <Link to={`/wordlist/${date}`} className="word-list__link">{date}</Link>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 };

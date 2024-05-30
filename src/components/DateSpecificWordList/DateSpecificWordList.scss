@@ -1,0 +1,49 @@
+.date-specific-word-list {
+  text-align: center;
+  padding: 20px;
+
+  &__title {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+
+  &__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+
+  &__card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  &__card-title {
+    margin: 0 0 10px;
+    font-size: 1.5em;
+  }
+
+  &__card-kana,
+  &__card-meaning {
+    margin: 5px 0;
+  }
+
+  &__button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+    &:hover {
+      background-color: #377d3b;
+    }
+  }
+}
